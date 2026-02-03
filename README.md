@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou o Arthur Garcia 👋
 
-<!--
-**catapani2025/catapani2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Graduando em Sistemas de Informação | Software Developer
 
-Here are some ideas to get you started:
+Focado na construção de sistemas robustos e escaláveis. Atualmente, dedico meus estudos ao aprofundamento técnico em linguagens core e frameworks modernos, com o objetivo de integrar times de engenharia em multinacionais e ambientes de alta tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+*   **Back-end:** Java, Python
+*   **Front-end:** React, HTML5, CSS3
+*   **Core:** Estrutura de Dados e Programação Orientada a Objetos (POO)
+
+---
+
+### 🚀 Objetivo de Carreira
+Excelência técnica e atuação em projetos de escala global. Foco total em arquitetura de software e boas práticas de desenvolvimento (Clean Code).
+
+---
+
+### 📫 Contato
+
+*   **LinkedIn:** [://linkedin.com](https://www.://linkedin.com-85b810289)
+*   **E-mail:** [arthurcatapani@gmail.com](mailto:arthurcatapani@gmail.com)
+
+---
